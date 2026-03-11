@@ -1,6 +1,6 @@
 # Slump test in ShotcreteSimulation
 
-This repository provides the custom Unity scripts and a runnable demo for the dynamic slump-test case described in the manuscript.
+This repository contains the custom Unity scripts and a runnable demo for the dynamic slump-test case described in the paper A Simulation Engine for Smart Shotcreting in Tunnel Excavation.
 
 ## Contents
 

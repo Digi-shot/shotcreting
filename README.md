@@ -2,7 +2,7 @@
 
 This repository contains the custom Unity scripts and a runnable demo for the dynamic slump-test case described in the paper A Simulation Engine for Smart Shotcreting in Tunnel Excavation.
 ## Screenshot
-
+![Demo screenshot](Screenshot0.png)
 ![Demo screenshot](Screenshot.png)
 ## Contents
 

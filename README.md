@@ -1,4 +1,4 @@
-# Unity Dynamic Slump-Test Demo
+# Slump test in ShotcreteSimulation
 
 This repository provides the custom Unity scripts and a runnable demo for the dynamic slump-test case described in the manuscript.
 

@@ -46,7 +46,7 @@ The simulation exports time-history data of the tracked quantities to a CSV file
 
 ## Notes
 
-Third-party plugins and assets, including Obi Fluid, are not included in this repository and must be obtained separately through legitimate purchase and licensing before use. All contents provided in this repository are intended for research purposes only and are not for commercial use.
+Third-party plugins and assets, including Obi Fluid, are not included in this repository and must be obtained separately through legitimate purchase and licensing before use. All contents provided in this repository are intended for research purposes only and are not for commercial use.Due to differences in computational performance across hardware platforms, minor variations in simulation results may occur, and occasional particle penetration artifacts may appear.
 
 ## Screenshot
 
